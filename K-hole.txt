@@ -15,6 +15,7 @@
 ||6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com^
 ||cdn.jsdelivr.net.cdn.cloudflare.net^
 ||unagi-na.amazon.com^
+||*.pop-iad-2.cf.dash.row.aiv-cdn.net^
 
 # End of custom host records.
 
