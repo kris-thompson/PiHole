@@ -16,6 +16,8 @@
 ||cdn.jsdelivr.net.cdn.cloudflare.net^
 ||unagi-na.amazon.com^
 ||*.pop-iad-2.cf.dash.row.aiv-cdn.net^
+||Chub.ai^
+||Janitorial.ai^
 
 # End of custom host records.
 
