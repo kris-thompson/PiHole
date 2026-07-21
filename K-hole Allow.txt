@@ -1,0 +1,18 @@
+# Title: Pihole/hosts
+#
+# This hosts file is a custom collection of hosts from my own sources,
+#
+# Date: 24 February 2026 15:53:13 (UTC)
+#
+# ===============================================================
+
+
+
+# Custom host records are listed here.
+
+||Kindroid.ai^
+||Chub.ai^
+||Janitorial.ai^
+
+# End of custom host records.
+
